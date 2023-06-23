@@ -1,0 +1,22 @@
+{
+  "allClisChoices": [
+    "vue3",
+    "react"
+  ],
+  "allClis": [
+    {
+      "id": 1690639830968,
+      "name": "vue3",
+      "commander": "npm init vue@latest",
+      "create_time": "2023-06-23T09:30:12.351Z",
+      "update_time": "2023-06-23T09:30:12.351Z"
+    },
+    {
+      "id": 1688117945506,
+      "name": "react",
+      "commander": "npx create-next-app",
+      "create_time": "2023-06-23T10:20:29.373Z",
+      "update_time": "2023-06-23T10:20:29.373Z"
+    }
+  ]
+}
